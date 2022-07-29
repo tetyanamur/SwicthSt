@@ -1,0 +1,14 @@
+C:\Users\oksyp\repos\SwitchSt\SwitchSt\bin\Debug\netcoreapp3.1\SwitchSt.exe
+C:\Users\oksyp\repos\SwitchSt\SwitchSt\bin\Debug\netcoreapp3.1\SwitchSt.deps.json
+C:\Users\oksyp\repos\SwitchSt\SwitchSt\bin\Debug\netcoreapp3.1\SwitchSt.runtimeconfig.json
+C:\Users\oksyp\repos\SwitchSt\SwitchSt\bin\Debug\netcoreapp3.1\SwitchSt.runtimeconfig.dev.json
+C:\Users\oksyp\repos\SwitchSt\SwitchSt\bin\Debug\netcoreapp3.1\SwitchSt.dll
+C:\Users\oksyp\repos\SwitchSt\SwitchSt\bin\Debug\netcoreapp3.1\SwitchSt.pdb
+C:\Users\oksyp\repos\SwitchSt\SwitchSt\obj\Debug\netcoreapp3.1\SwitchSt.csproj.AssemblyReference.cache
+C:\Users\oksyp\repos\SwitchSt\SwitchSt\obj\Debug\netcoreapp3.1\SwitchSt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oksyp\repos\SwitchSt\SwitchSt\obj\Debug\netcoreapp3.1\SwitchSt.AssemblyInfoInputs.cache
+C:\Users\oksyp\repos\SwitchSt\SwitchSt\obj\Debug\netcoreapp3.1\SwitchSt.AssemblyInfo.cs
+C:\Users\oksyp\repos\SwitchSt\SwitchSt\obj\Debug\netcoreapp3.1\SwitchSt.csproj.CoreCompileInputs.cache
+C:\Users\oksyp\repos\SwitchSt\SwitchSt\obj\Debug\netcoreapp3.1\SwitchSt.dll
+C:\Users\oksyp\repos\SwitchSt\SwitchSt\obj\Debug\netcoreapp3.1\SwitchSt.pdb
+C:\Users\oksyp\repos\SwitchSt\SwitchSt\obj\Debug\netcoreapp3.1\SwitchSt.genruntimeconfig.cache
